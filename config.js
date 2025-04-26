@@ -7,7 +7,7 @@ function convertToBool(text, fault = 'true') {
 
 module.exports = {
 
-SESSION_ID: process.env.SESSION_ID === undefined ? '1Ag0lAiT#7Mnudq2LP9IC_W1Y9VkQmwDdINRhPNelK5Q_x1VC53g' : process.env.SESSION_ID, 
+SESSION_ID: process.env.SESSION_ID === undefined ? 'IcpR3KTZ#q69dYXczp0u3jBuihcScu5bm4Dnu6wdJB5J1Umzx3HA' : process.env.SESSION_ID, 
 PORT: process.env.PORT === undefined ? '8000' : process.env.PORT, 
 SESSION_NAME: process.env.SESSION_NAME === undefined ? 'movievisper' : process.env.SESSION_NAME,  
 
